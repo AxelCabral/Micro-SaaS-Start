@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#key firebase
+micro-saas-start-5531c-firebase-adminsdk-fbsvc-5ee2a05423.json
